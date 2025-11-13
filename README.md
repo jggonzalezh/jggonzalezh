@@ -24,7 +24,7 @@ I'm a passionate ,Enthusiastic and Versatile  Full Stack software developer  wit
 - Cloud Architecture (AWS/Azure)
 - Microservices & Containerization
 - AI/ML Integration
-- AI/ML Integration
+
 
 ## 📫 How to Reach Me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/juan-gabriel-gonzalez-610b9a67/)
