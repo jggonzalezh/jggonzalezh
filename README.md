@@ -28,7 +28,7 @@ I'm a passionate ,Enthusiastic and Versatile  Full Stack software developer  wit
 
 ## 📫 How to Reach Me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/juan-gabriel-gonzalez-610b9a67/)
-- Email: jggonzalezh84@example.com
+- Email: jggonzalezh84@gmail.com
 - Hackerrank: [Hackerrank profile](https://www.hackerrank.com/profile/jggonzalezh84)
 
 
